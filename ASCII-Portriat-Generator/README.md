@@ -35,8 +35,8 @@ python advanced_ascii.py
 
 ## Project Version
 
-Version 5.0
+Version 5.1
 
 ## Author
 
-AI & Machine Learning Student
+Devipriya-coder
